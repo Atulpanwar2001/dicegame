@@ -27,3 +27,9 @@ img{
 .big{
   font-size:10rem;
 }
+
+.footer{
+  text-align:center;
+  color:#4ECCA3;
+  padding:10px;
+}
