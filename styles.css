@@ -1,0 +1,29 @@
+h1{
+  color:#4ECCA3;;
+  font-size:8rem;
+  text-align: center;
+}
+body{
+  background-color: #393E46;
+}
+.container{
+  text-align: center;
+  width: 70%;
+  margin :auto;
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+h4{
+  font-size: 2rem;
+  color:#4ECCA3;
+}
+img{
+  width:80%;
+}
+
+.big{
+  font-size:10rem;
+}
